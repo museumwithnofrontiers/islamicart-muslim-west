@@ -1,6 +1,34 @@
 {
-  "legacy": "TODO(dataset): run inventory-app's scripts/minisites/legacy-minisite.mjs",
+  "legacy": "https://islamicart.museumwnf.org/exhibitions/ISL/muslim_west/",
   "menuSecondColumnFrom": 7,
-  "curators": [],
-  "maps": 0
+  "curators": [
+    {
+      "partner": "ce4d8147-795e-5a50-9c18-cf90561d29e5",
+      "logo": "legacy/MA-27.gif",
+      "space": 30
+    },
+    {
+      "partner": "8a41ae85-1217-5a1f-a8f2-68da1d74234d",
+      "logo": "legacy/DZ-27.gif",
+      "space": 26
+    },
+    {
+      "partner": "236add0a-18d4-55b1-88dd-71cad26804b1",
+      "logo": "legacy/PT-27.gif",
+      "space": 22
+    },
+    {
+      "name": "Municipality of Mertola",
+      "country": "prt",
+      "href": "#",
+      "logo": "legacy/pt2_27.gif",
+      "space": 20
+    },
+    {
+      "partner": "7712e497-33e4-5529-91c3-47abff00f87c",
+      "logo": "legacy/ES-27.gif",
+      "space": 0
+    }
+  ],
+  "maps": 2
 }
